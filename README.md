@@ -1,69 +1,65 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar S</h1>
 
 <h3 align="center">
-Final Year CSE Student • Java Backend Developer • Spring Boot • React • C++
+🚀 Java Backend Developer | Spring Boot | Competitive Programmer | Final Year CSE Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;600%2B+DSA+Problems+Solved;React+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;600%2B+DSA+Problems+Solved;Building+Scalable+Backend+Applications;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/SANJAYKUMAR-05?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/SANJAYKUMAR-05?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Final Year Computer Science Student
+🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about Backend Development
+💻 Passionate Backend Developer
+
+⚡ Strong in Data Structures & Algorithms
+
+🚀 Love building scalable backend applications using Java & Spring Boot
 
 🌱 Currently Learning
 
 - Spring Security
 - Docker
-- Redis
 - AWS
+- Redis
 - System Design
+- Microservices
 
-🚀 Solved 600+ DSA Problems
+🏆 Highlights
 
-⚡ Love Building Scalable Backend Applications
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="45"/>
-</a>
-
-<a href="https://github.com/SANJAYKUMAR-05">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
+- 💯 600+ DSA Problems Solved
+- 🥈 Runner-Up - Neo Codeathon 2026
+- 📜 Indian Patent Filed
+- 💼 Freelance Web Developer
+- 👨‍🏫 2+ Years Teaching Experience
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,cpp,git,github,docker,aws,linux,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,cpp,git,github,aws,docker,linux,vscode,idea"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -73,10 +69,6 @@ Final Year CSE Student • Java Backend Developer • Spring Boot • React • 
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=tokyonight&hide_border=true"/>
@@ -85,7 +77,7 @@ Final Year CSE Student • Java Backend Developer • Spring Boot • React • 
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -107,73 +99,143 @@ Final Year CSE Student • Java Backend Developer • Spring Boot • React • 
 
 # 🚀 Featured Projects
 
-## 🍔 Food Delivery Backend
+## 🍔 Food Delivery Backend System
 
-Java • Spring Boot • JWT • Spring Security • MySQL
+> Java • Spring Boot • Spring Security • JWT • MySQL
 
-A secure REST API for a Food Delivery platform with authentication, role-based authorization, order management, and payment-ready architecture.
+✔ Secure Authentication
 
----
+✔ Role Based Authorization
 
-## 🎨 Real-Time Whiteboard
+✔ REST APIs
 
-Spring Boot • React • WebSocket
+✔ Order Management
 
-Collaborative whiteboard application with live drawing synchronization using WebSockets.
-
----
-
-## ⚽ Turf Booking System
-
-React • Spring Boot • MySQL
-
-Online Turf Booking platform featuring slot management, booking workflow, and secure backend APIs.
+✔ Relational Database Design
 
 ---
 
-## 🌐 Portfolio Website
+## ⚽ Turf Booking Management System
 
-React • Tailwind CSS • Framer Motion
+> Spring Boot • MySQL • JWT • REST APIs
 
-Personal portfolio showcasing projects, skills, and achievements with a modern responsive UI.
+✔ Real-Time Slot Booking
+
+✔ User Management
+
+✔ Booking Conflict Prevention
+
+✔ Secure Authentication
+
+---
+
+## 🌐 Aaryaa Network
+
+> React • REST APIs • HTML • CSS
+
+✔ Production Ready Client Website
+
+✔ Responsive Design
+
+✔ API Integration
+
+✔ Optimized Performance
+
+---
+
+## 🎨 Portfolio Website
+
+> React • Tailwind CSS • Framer Motion
+
+✔ Modern UI
+
+✔ Responsive Design
+
+✔ Smooth Animations
+
+---
+
+# 🏅 Achievements
+
+🥈 Runner-Up - Neo Codeathon 2026
+
+📜 Indian Patent Filed
+
+🏆 600+ DSA Problems Solved
+
+☁ Microsoft Azure Fundamentals Certified
+
+🛡 Google Foundations of Cybersecurity
+
+🌐 Cisco Introduction to Cybersecurity
+
+🥇 First Prize - Technical Presentation
+
+🥈 Second Prize - Paper Presentation
+
+👨‍🏫 2+ Years Teaching Experience
 
 ---
 
 # 📚 Competitive Programming
 
-🏆 600+ DSA Problems Solved
+```text
+🏆 600+ Problems Solved
 
-⭐ LeetCode
+LeetCode
 
-⭐ GeeksForGeeks
+GeeksForGeeks
 
-⭐ CodeStudio
+CodeStudio
 
-Always striving to improve problem-solving skills.
+Problem Solving
+
+Algorithms
+
+Data Structures
+```
 
 ---
 
 # 🎯 Current Focus
 
-✔ Advanced Spring Boot
+🚀 Advanced Spring Boot
 
-✔ System Design
+⚙ Microservices
 
-✔ Docker
+🐳 Docker
 
-✔ AWS
+☁ AWS
 
-✔ Redis
+⚡ Redis
 
-✔ Kafka
+📈 System Design
 
 ---
 
-# 📈 Profile Views
+# 🌍 Connect With Me
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=Profile%20Views&color=0e75b6&style=flat"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:sanjay413607@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/SANJAYKUMAR-05">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="42"/>
+</a>
 
 </p>
 
@@ -189,12 +251,16 @@ Always striving to improve problem-solving skills.
 
 ---
 
-# ✨ Quote
+# 💡 Quote
 
-> "Consistency compounds. Every commit is a step toward mastery."
+> **"The best way to predict the future is to build it."**
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+If you like my work, don't forget to ⭐ my repositories!
+
 </h3>

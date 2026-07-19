@@ -217,7 +217,7 @@ Data Structures
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sanjay4136/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -229,23 +229,13 @@ Data Structures
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://sanjay-rho.vercel.app/">
 <img src="https://img.icons8.com/color/48/domain.png" width="45"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/kumar413607/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="42"/>
 </a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake.svg"/>
 
 </p>
 

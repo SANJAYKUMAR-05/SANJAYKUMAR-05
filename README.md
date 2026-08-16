@@ -41,7 +41,7 @@
 
 🏆 Highlights
 
-- 💯 600+ DSA Problems Solved
+- 💯 700+ DSA Problems Solved
 - 🥈 Runner-Up - Neo Codeathon 2026
 - 📜 Indian Patent Filed
 - 💼 Freelance Web Developer

@@ -1,37 +1,43 @@
-# Hi 👋, I'm Sanjay Kumar S
+<div align="center">
+
+# 👋 Hi, I'm Sanjay Kumar S
 
 ### 🚀 Java Backend Developer | Software Engineer | Competitive Programmer
 
-I build scalable backend systems and solve complex engineering problems
-using Java, Spring Boot, databases, and distributed-system concepts.
+Building scalable backend systems with **Java, Spring Boot, Databases & Distributed Systems**
 
-<p align="left">
+<p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22c55e" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=22c55e" />
   </a>
   <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=22c55e" />
   </a>
   <a href="mailto:sanjay413607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22c55e" />
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=Profile%20Views&color=22c55e&style=flat" />
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Software Engineer focused on **Java Backend Development**
-- ⚡ Building RESTful APIs with **Spring Boot**
-- 🔐 Interested in **Spring Security, JWT, RBAC and secure backend systems**
-- 🗄️ Working with **MySQL, JPA and database design**
-- ⚡ Exploring **Redis, Docker, System Design and scalable architectures**
-- 🧠 Solved **700+ DSA problems**
-- 🏆 Indian Patent Published
-- 🎯 Preparing for high-impact Software Engineering roles
+```text
+💻 Java Backend Developer
+⚡ Spring Boot & REST API Development
+🔐 Spring Security, JWT & RBAC
+🗄️ MySQL, JPA & Database Design
+⚡ Redis, Docker & System Design
+🧠 700+ DSA Problems Solved
+🏆 Indian Patent Published
+🎯 Preparing for Software Engineering Roles
 
 ---
 

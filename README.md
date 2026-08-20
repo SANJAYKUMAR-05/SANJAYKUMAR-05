@@ -255,33 +255,6 @@ Cloud Architecture
 
 ---
 
-# 💡 Engineering Interests
-
-```text
-                         BACKEND ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-        API DESIGN            DATABASES            SECURITY
-             │                    │                    │
-        REST APIs              MySQL                 JWT
-        Validation             JPA                   RBAC
-        Exception              ACID             Spring Security
-        Handling              Indexing
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                          SCALABLE SYSTEMS
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-           REDIS             CONCURRENCY         DISTRIBUTED
-             │                    │                 SYSTEMS
-         Caching             Optimistic             │
-         Rate Limit           Locking           System Design
-         Performance          Transactions       Reliability
-```
-
 ---
 
 # 🤝 Let's Connect
@@ -289,19 +262,19 @@ Cloud Architecture
 <p align="center">
 
 <a href="www.linkedin.com/in/sanjay4136">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 <a href="https://sanjay-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
 </a>
 
 <a href="https://leetcode.com/u/kumar413607/">
-  <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=0D1117"/>
 </a>
 
 <a href="mailto:sanjay413607@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
 
 </p>

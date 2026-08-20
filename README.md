@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Sanjay Kumar S
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
@@ -10,7 +13,8 @@
 
 <p align="center">
   I build <b>scalable backend systems</b>, design reliable APIs,<br/>
-  and solve complex engineering problems using <b>Java, Spring Boot, databases & distributed-system concepts.</b>
+  and solve complex engineering problems using
+  <b>Java, Spring Boot, databases & distributed-system concepts.</b>
 </p>
 
 <p align="center">
@@ -30,29 +34,29 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 💻 **Software Engineer** focused on Java Backend Development
-* ☕ Building production-style applications with **Java & Spring Boot**
-* 🔐 Designing secure APIs using **Spring Security, JWT & RBAC**
-* 🗄️ Working with **MySQL, JPA & database design**
-* ⚡ Exploring **Redis, Docker, System Design & scalable architectures**
-* 🧠 Solved **700+ DSA problems**
-* 📜 **Indian Patent Published**
-* 🏆 **Runner-Up — Neo Codeathon 2026**
-* 🎯 Preparing for high-impact **Software Engineering roles**
+- 💻 **Software Engineer** focused on Java Backend Development
+- ☕ Building production-style applications with **Java & Spring Boot**
+- 🔐 Designing secure APIs using **Spring Security, JWT & RBAC**
+- 🗄️ Working with **MySQL, JPA & database design**
+- ⚡ Exploring **Redis, Docker, System Design & scalable architectures**
+- 🧠 Solved **700+ DSA problems**
+- 📜 **Indian Patent Published**
+- 🏆 **Runner-Up — Neo Codeathon 2026**
+- 🎯 Preparing for high-impact **Software Engineering roles**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,js"/>
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
@@ -66,13 +70,13 @@
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
 </p>
 
-### 🗄️ Database & Infrastructure
+## 🗄️ Database & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,redis,docker"/>
 </p>
 
-### 🎨 Frontend & Developer Tools
+## 🎨 Frontend & Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,git,github,postman,figma"/>
@@ -90,12 +94,12 @@
 
 > A scalable URL shortening backend focused on performance, caching and API reliability.
 
-* 🔗 Built REST APIs for **URL creation, redirection, analytics and management**
-* ⚡ Implemented **Redis Cache-Aside caching**
-* 🛡️ Added **IP-based rate limiting**
-* 📉 Reduced redirect latency from **463 ms → 316 ms**
-* 🚦 Load tested with **1,023 requests across 50 concurrent users**
-* ✅ Achieved **100% request success** during the benchmark
+- 🔗 Built REST APIs for **URL creation, redirection, analytics and management**
+- ⚡ Implemented **Redis Cache-Aside caching**
+- 🛡️ Added **IP-based rate limiting**
+- 📉 Reduced redirect latency from **463 ms → 316 ms**
+- 🚦 Load tested with **1,023 requests across 50 concurrent users**
+- ✅ Achieved **100% request success** during the benchmark
 
 <p>
   <a href="YOUR_LINKFORGE_REPO">
@@ -113,12 +117,12 @@
 
 > A role-based learning and assessment platform supporting Admin, Tutor and Student workflows.
 
-* 🔌 Designed **25+ REST APIs**
-* 👥 Built Admin, Tutor and Student workflows
-* 🔐 Implemented **JWT-secured RBAC**
-* 💻 Integrated **Monaco Editor + Judge0**
-* 📝 Supported **MCQ, Programming and SQL evaluations**
-* ⚙️ Used JPA inheritance and transactional services
+- 🔌 Designed **25+ REST APIs**
+- 👥 Built Admin, Tutor and Student workflows
+- 🔐 Implemented **JWT-secured RBAC**
+- 💻 Integrated **Monaco Editor + Judge0**
+- 📝 Supported **MCQ, Programming and SQL evaluations**
+- ⚙️ Used JPA inheritance and transactional services
 
 <p>
   <a href="YOUR_MAATRAM_REPO">
@@ -136,13 +140,13 @@
 
 > A multi-role booking system designed around secure APIs, database consistency and concurrent booking.
 
-* 🔌 Designed **20+ REST APIs**
-* 🗄️ Built a normalized **6+ table MySQL schema**
-* 🔐 Implemented JWT authentication and Spring Security RBAC
-* 📅 Built turf slot booking workflows
-* ⚔️ Implemented booking conflict detection
-* 🔒 Used **unique DB constraints + optimistic locking**
-* 🚫 Prevented double bookings under concurrent requests
+- 🔌 Designed **20+ REST APIs**
+- 🗄️ Built a normalized **6+ table MySQL schema**
+- 🔐 Implemented JWT authentication and Spring Security RBAC
+- 📅 Built turf slot booking workflows
+- ⚔️ Implemented booking conflict detection
+- 🔒 Used **unique DB constraints + optimistic locking**
+- 🚫 Prevented double bookings under concurrent requests
 
 <p>
   <a href="YOUR_TURF_REPO">
@@ -165,195 +169,3 @@ Time & Space Complexity
 Competitive Programming
 Optimization
 Interview Preparation
-```
-
-<p>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LEETCODE-700%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Activity
-
-## 🟢 Real-Time Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area_color=00FF88&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github"
-    height="180"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"
- height="180"
-/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    width="70%"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=SANJAYKUMAR-05&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="100%"
-  />
-</p>
-
----
-
-# 🏆 Achievements
-
-| 🏅    | Achievement                                                                 |
-| ----- | --------------------------------------------------------------------------- |
-| 📜    | **Indian Patent Published** — Intelligent Tamper-Evident Weighing Apparatus |
-| 🥈    | **Runner-Up — Neo Codeathon 2026**                                          |
-| 🥇    | **First Prize — Technical Presentation, SKCET**                             |
-| 🥈    | **Second Prize — Paper Presentation, KPR Institute**                        |
-| 🧠    | **700+ DSA Problems Solved**                                                |
-| 👨‍🏫 | **2+ Years Teaching & Mentorship Experience**                               |
-
----
-
-# 📚 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-```text
-Spring Security
-        ↓
-Redis & Caching
-        ↓
-Docker & Deployment
-        ↓
-System Design
-        ↓
-Distributed Systems
-        ↓
-Microservices
-        ↓
-Cloud Architecture
-```
-
----
-
-# 💡 Engineering Interests
-
-```text
-                         BACKEND ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-        API DESIGN            DATABASES            SECURITY
-             │                    │                    │
-        REST APIs              MySQL                 JWT
-        Validation             JPA                   RBAC
-        Exception              ACID             Spring Security
-        Handling              Indexing
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                          SCALABLE SYSTEMS
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-           REDIS             CONCURRENCY         DISTRIBUTED
-             │                    │                 SYSTEMS
-         Caching             Optimistic             │
-         Rate Limit           Locking           System Design
-         Performance          Transactions       Reliability
-```
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:sanjay413607@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 🟢 BUILD • LEARN • SOLVE • SHIP
-
-**Building scalable systems. Solving hard problems. Growing every day.**
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=PROFILE%20VIEWS&color=00FF88&style=flat-square"/>
-</p>

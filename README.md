@@ -199,18 +199,21 @@ Interview Preparation
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github"
+    src="./profile/stats.svg"
     height="180"
+    alt="GitHub Statistics"
   />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"
- height="180"
-/>
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 
 </p>
 

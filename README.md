@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Sanjay Kumar S
 
-<p align="center">
+<p >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems" />
 </p>
 
-<p align="center">
+<p>
   <b>🚀 Java Backend Developer • Software Engineer • Competitive Programmer</b>
 </p>
 
-<p align="center">
+<p>
   I build <b>scalable backend systems</b>, design reliable APIs,<br/>
   and solve complex engineering problems using <b>Java, Spring Boot, databases & distributed-system concepts.</b>
 </p>
 
-<p align="center">
+<p>
   <a href="www.linkedin.com/in/sanjay4136">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,7 +49,7 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js"/>
 </p>
 
 ### ⚙️ Backend

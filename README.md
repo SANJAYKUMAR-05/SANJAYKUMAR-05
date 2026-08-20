@@ -230,12 +230,13 @@ Interview Preparation
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SANJAYKUMAR-05&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+    src="./profile/trophy.svg"
     width="100%"
+    alt="GitHub Trophies"
   />
 </p>
 

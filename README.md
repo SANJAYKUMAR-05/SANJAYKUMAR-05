@@ -183,12 +183,12 @@ Interview Preparation
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"
     height="180"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"
  height="180"
 />
 
@@ -198,7 +198,7 @@ Interview Preparation
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
+    src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
     width="70%"
   />
 </p>
@@ -207,7 +207,7 @@ Interview Preparation
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=SANJAYKUMAR-05&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
     width="100%"
   />
 </p>
@@ -306,5 +306,5 @@ Backend Engineering
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00ff88&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=PROFILE%20VIEWS&color=00ff88&style=flat-square"/>
 </p>

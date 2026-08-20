@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Sanjay Kumar S
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&vCenter=true&width=800&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems"
+    alt="Typing SVG"
+  />
 </p>
 
 <p>

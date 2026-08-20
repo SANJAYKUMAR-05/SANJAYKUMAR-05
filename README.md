@@ -1,256 +1,165 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar S</h1>
+# Hi 👋, I'm Sanjay Kumar S
 
-<h3 align="center">
-🚀 Java Backend Developer | Spring Boot | Competitive Programmer | Final Year CSE Student
-</h3>
+### 🚀 Java Backend Developer | Software Engineer | Competitive Programmer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;600%2B+DSA+Problems+Solved;Building+Scalable+Backend+Applications;Always+Learning+Something+New" />
-</p>
+I build scalable backend systems and solve complex engineering problems
+using Java, Spring Boot, databases, and distributed-system concepts.
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/SANJAYKUMAR-05?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/SANJAYKUMAR-05?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💫 About Me
-
-🎓 Final Year Computer Science Engineering Student
-
-💻 Passionate Backend Developer
-
-⚡ Strong in Data Structures & Algorithms
-
-🚀 Love building scalable backend applications using Java & Spring Boot
-
-🌱 Currently Learning
-
-- Spring Security
-- Docker
-- AWS
-- Redis
-- System Design
-- Microservices
-
-🏆 Highlights
-
-- 💯 700+ DSA Problems Solved
-- 🥈 Runner-Up - Neo Codeathon 2026
-- 📜 Indian Patent Filed
-- 💼 Freelance Web Developer
-- 👨‍🏫 2+ Years Teaching Experience
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,cpp,git,github,aws,docker,linux,vscode,idea"/>
-
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:sanjay413607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## 👨‍💻 About Me
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 💻 Software Engineer focused on **Java Backend Development**
+- ⚡ Building RESTful APIs with **Spring Boot**
+- 🔐 Interested in **Spring Security, JWT, RBAC and secure backend systems**
+- 🗄️ Working with **MySQL, JPA and database design**
+- ⚡ Exploring **Redis, Docker, System Design and scalable architectures**
+- 🧠 Solved **700+ DSA problems**
+- 🏆 Indian Patent Published
+- 🎯 Preparing for high-impact Software Engineering roles
 
 ---
 
-# 📊 Contribution Graph
+## 🛠️ Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&theme=tokyo-night"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,sql,js"/>
 </p>
 
----
+### Backend
 
-# 🏆 GitHub Trophies
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
+</p>
 
-<p align="center">
+### Database & Infrastructure
 
-<img src="https://github-profile-trophy.vercel.app/?username=SANJAYKUMAR-05&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,redis,docker"/>
+</p>
 
+### Frontend & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,git,github,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍔 Food Delivery Backend System
+## 🔗 LinkForge
 
-> Java • Spring Boot • Spring Security • JWT • MySQL
+**High-Performance URL Shortening Platform**
 
-✔ Secure Authentication
+`Java` `Spring Boot` `Redis` `MySQL` `Docker`
 
-✔ Role Based Authorization
+- Built REST APIs for URL creation, redirection, analytics and management.
+- Implemented **Redis Cache-Aside caching**.
+- Added **IP-based rate limiting**.
+- Reduced redirect latency from **463 ms → 316 ms**.
+- Load tested with **1,023 requests across 50 concurrent users**.
 
-✔ REST APIs
-
-✔ Order Management
-
-✔ Relational Database Design
-
----
-
-## ⚽ Turf Booking Management System
-
-> Spring Boot • MySQL • JWT • REST APIs
-
-✔ Real-Time Slot Booking
-
-✔ User Management
-
-✔ Booking Conflict Prevention
-
-✔ Secure Authentication
+🔗 **[View Repository](YOUR_LINKFORGE_REPO)**
 
 ---
 
-## 🌐 Aaryaa Network
+## 👨‍🏫 Maatram KK360
 
-> React • REST APIs • HTML • CSS
+**Role-Based Assessment & Learning Platform**
 
-✔ Production Ready Client Website
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Judge0`
 
-✔ Responsive Design
+- Designed **25+ REST APIs**.
+- Built Admin, Tutor and Student workflows.
+- Implemented JWT-secured RBAC.
+- Integrated Monaco Editor and Judge0 for coding assessments.
+- Supported MCQ, Programming and SQL evaluations.
 
-✔ API Integration
-
-✔ Optimized Performance
-
----
-
-## 🎨 Portfolio Website
-
-> React • Tailwind CSS • Framer Motion
-
-✔ Modern UI
-
-✔ Responsive Design
-
-✔ Smooth Animations
+🔗 **[View Repository](YOUR_MAATRAM_REPO)**
 
 ---
 
-# 🏅 Achievements
+## 🏟️ Turf Booking Management System
 
-🥈 Runner-Up - Neo Codeathon 2026
+**Concurrent Slot Booking Platform**
 
-📜 Indian Patent Filed
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL`
 
-🏆 600+ DSA Problems Solved
+- Designed **20+ REST APIs**.
+- Built a normalized 6+ table database schema.
+- Implemented JWT authentication and RBAC.
+- Added booking conflict detection.
+- Used **unique database constraints + optimistic locking** to prevent double bookings.
 
-☁ Microsoft Azure Fundamentals Certified
-
-🛡 Google Foundations of Cybersecurity
-
-🌐 Cisco Introduction to Cybersecurity
-
-🥇 First Prize - Technical Presentation
-
-🥈 Second Prize - Paper Presentation
-
-👨‍🏫 2+ Years Teaching Experience
+🔗 **[View Repository](YOUR_TURF_REPO)**
 
 ---
 
-# 📚 Competitive Programming
+# 🧠 Problem Solving
 
-```text
-🏆 600+ Problems Solved
+### 700+ DSA Problems Solved
 
-LeetCode
+I regularly practice:
 
-GeeksForGeeks
+- Data Structures & Algorithms
+- Competitive Programming
+- Algorithmic Optimization
+- Problem Solving
 
-CodeStudio
+### LeetCode
 
-Problem Solving
-
-Algorithms
-
-Data Structures
-```
+**[View my LeetCode profile →](YOUR_LEETCODE_URL)**
 
 ---
 
-# 🎯 Current Focus
+# 📊 GitHub Statistics
 
-🚀 Advanced Spring Boot
+<p align="center">
+  <img src="YOUR_GITHUB_STATS"/>
+</p>
 
-⚙ Microservices
-
-🐳 Docker
-
-☁ AWS
-
-⚡ Redis
-
-📈 System Design
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sanjay4136/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sanjay413607@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/SANJAYKUMAR-05">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://sanjay-rho.vercel.app/">
-<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
-</a>
-
-<a href="https://leetcode.com/u/kumar413607/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="42"/>
-</a>
-
+<p align="center">
+  <img src="YOUR_GITHUB_STREAK"/>
 </p>
 
 ---
 
-# 💡 Quote
+# 🏆 Achievements
 
-> **"The best way to predict the future is to build it."**
+- 🥇 **Indian Patent Published** — Intelligent Tamper-Evident Weighing Apparatus
+- 🥈 **Runner-Up — Neo Codeathon**
+- 🥇 **First Prize — Technical Presentation, SKCET**
+- 🥈 **Second Prize — Paper Presentation, KPR Institute**
+- 🧠 **700+ DSA Problems Solved**
+- 👨‍🏫 **2+ Years Teaching & Mentorship Experience**
 
 ---
 
-<h3 align="center">
+# 📚 Currently Learning
 
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-If you like my work, don't forget to ⭐ my repositories!
-
-</h3>
+```text
+Spring Security
+Docker
+Redis
+System Design
+Microservices
+AWS
+Distributed Systems

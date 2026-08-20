@@ -260,23 +260,18 @@ Cloud Architecture
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="www.linkedin.com/in/sanjay4136">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
-
-<a href="https://sanjay-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=0D1117"/>
-</a>
-
-<a href="https://leetcode.com/u/kumar413607/">
-  <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=0D1117"/>
-</a>
-
-<a href="mailto:sanjay413607@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
-</a>
-
+  <a href="www.linkedin.com/in/sanjay4136">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sanjay-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/kumar413607/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:sanjay413607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---

@@ -1,10 +1,19 @@
 # 👋 Hi, I'm Sanjay Kumar S
 
-### 🚀 Java Backend Developer | Software Engineer | Competitive Programmer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems" />
+</p>
 
-I build **scalable backend systems**, design reliable APIs, and solve complex engineering problems using **Java, Spring Boot, databases, and distributed-system concepts**.
+<p align="center">
+  <b>🚀 Java Backend Developer • Software Engineer • Competitive Programmer</b>
+</p>
 
-<p align="left">
+<p align="center">
+  I build <b>scalable backend systems</b>, design reliable APIs,<br/>
+  and solve complex engineering problems using <b>Java, Spring Boot, databases & distributed-system concepts.</b>
+</p>
+
+<p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,7 +39,7 @@ I build **scalable backend systems**, design reliable APIs, and solve complex en
 * ⚡ Exploring **Redis, Docker, System Design & scalable architectures**
 * 🧠 Solved **700+ DSA problems**
 * 📜 **Indian Patent Published**
-* 🏆 **Runner-Up — Neo Codeathon**
+* 🏆 **Runner-Up — Neo Codeathon 2026**
 * 🎯 Preparing for high-impact **Software Engineering roles**
 
 ---
@@ -145,7 +154,7 @@ I build **scalable backend systems**, design reliable APIs, and solve complex en
 
 # 🧠 Problem Solving
 
-## 700+ DSA Problems Solved
+## 🔥 700+ DSA Problems Solved
 
 I continuously practice Data Structures & Algorithms to strengthen:
 
@@ -158,11 +167,9 @@ Optimization
 Interview Preparation
 ```
 
-### 🔥 LeetCode
-
 <p>
   <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/700%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LEETCODE-700%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -170,38 +177,55 @@ Interview Preparation
 
 # 📊 GitHub Activity
 
-## 🔥 Real-Time Contribution Graph
+## 🟢 Real-Time Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area_color=00ff88&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area_color=00FF88&area=true&hide_border=true"
     width="100%"
   />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=SANJAYKUMAR-05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&rank_icon=github"
     height="180"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYKUMAR-05&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"
  height="180"
 />
 
 </p>
 
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"
+    src="https://streak-stats.demolab.com?user=SANJAYKUMAR-05&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
     width="70%"
   />
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -259,16 +283,28 @@ Cloud Architecture
 # 💡 Engineering Interests
 
 ```text
-Backend Engineering
-        │
-        ├── REST API Design
-        ├── Authentication & Authorization
-        ├── Database Engineering
-        ├── Caching
-        ├── Concurrency
-        ├── Performance Optimization
-        ├── Distributed Systems
-        └── System Design
+                         BACKEND ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+        API DESIGN            DATABASES            SECURITY
+             │                    │                    │
+        REST APIs              MySQL                 JWT
+        Validation             JPA                   RBAC
+        Exception              ACID             Spring Security
+        Handling              Indexing
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                          SCALABLE SYSTEMS
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+           REDIS             CONCURRENCY         DISTRIBUTED
+             │                    │                 SYSTEMS
+         Caching             Optimistic             │
+         Rate Limit           Locking           System Design
+         Performance          Transactions       Reliability
 ```
 
 ---
@@ -278,19 +314,19 @@ Backend Engineering
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:sanjay413607@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </p>
@@ -306,5 +342,5 @@ Backend Engineering
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=PROFILE%20VIEWS&color=00ff88&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=PROFILE%20VIEWS&color=00FF88&style=flat-square"/>
 </p>

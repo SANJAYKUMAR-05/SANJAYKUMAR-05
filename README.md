@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/sanjay4136">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sanjay-rho.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/kumar413607/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:sanjay413607@gmail.com">
@@ -98,7 +98,7 @@
 * ✅ Achieved **100% request success** during the benchmark
 
 <p>
-  <a href="YOUR_LINKFORGE_REPO">
+  <a href="https://github.com/SANJAYKUMAR-05/linkforge">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
@@ -121,7 +121,7 @@
 * ⚙️ Used JPA inheritance and transactional services
 
 <p>
-  <a href="YOUR_MAATRAM_REPO">
+  <a href="https://github.com/SANJAYKUMAR-05/maatram-kk360-backend">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
@@ -145,7 +145,7 @@
 * 🚫 Prevented double bookings under concurrent requests
 
 <p>
-  <a href="YOUR_TURF_REPO">
+  <a href="https://github.com/mabisri4-18/Turf-Booking-System">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
@@ -168,8 +168,8 @@ Interview Preparation
 ```
 
 <p>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LEETCODE-700%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/kumar413607/">
+    <img src="https://img.shields.io/badge/LEETCODE-600%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -199,25 +199,7 @@ Interview Preparation
 
 ---
 
-# 📈 GitHub Statistics
 
-<p align="center">
-
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -230,17 +212,6 @@ Interview Preparation
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="./profile/trophy.svg"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 # 🏆 Achievements
 
@@ -317,15 +288,15 @@ Cloud Architecture
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/sanjay4136">
   <img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sanjay-rho.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/kumar413607/">
   <img src="https://img.shields.io/badge/LEETCODE-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -345,6 +316,3 @@ Cloud Architecture
 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANJAYKUMAR-05&label=PROFILE%20VIEWS&color=00FF88&style=flat-square"/>
-</p>

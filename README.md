@@ -2,7 +2,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&vCenter=true&width=800&lines=Java+Backend+Developer;Software+Engineer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&vCenter=true&width=800&lines=Software+Engineer;Java+Backend+Developer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Exploring+Distributed+Systems"
     alt="Typing SVG"
   />
 </p>

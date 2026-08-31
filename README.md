@@ -186,10 +186,9 @@ Interview Preparation
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area_color=00FF88&area=true&hide_border=true"
     width="100%"
+    alt="GitHub Contribution Graph"
   />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 

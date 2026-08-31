@@ -184,7 +184,7 @@ Interview Preparation
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SANJAYKUMAR-05&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area_color=00FF88&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/activity-graph.svg"
     width="100%"
     alt="GitHub Contribution Activity"
   />
@@ -198,6 +198,7 @@ Interview Preparation
   <img
     src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake-dark.svg"
     width="100%"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
